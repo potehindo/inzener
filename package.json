@@ -1,27 +1,14 @@
 {
-  "name": "inzener",
-  "version": "0.0.1",
-  "description": "inzener",
-  "engines": {
-    "node": "6.10.2"
-  },
+  "name": "bloger2",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "ejs": "2.5.6",
-    "express": "4.15.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/potehindo/inzener.git"
-  },
-  "keywords": [
-    "inzener",
-    "inzener2",
-    "inzener3"
-  ],
-  "author": "Potekhin",
-  "license": "MIT"
+    "express": "^4.16.3"
+  }
 }
