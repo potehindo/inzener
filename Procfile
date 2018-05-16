@@ -1,1 +1,1 @@
-web: node healthyLifestyle/app.js
+web: node app.js
